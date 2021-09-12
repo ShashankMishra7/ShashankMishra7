@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShashankMishra7
+- 👋 Hi, I’m @Shashank Mishra
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 -
